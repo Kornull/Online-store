@@ -11,8 +11,7 @@ This project is an application of an online store. Completed as part of studies 
 * ### *Webpack*
 * ### *Typescript*
 * ### *SCSS*
-
-* ### *The noUiSlider library was used*
+* ### *noUiSlider*
 
 
 The history of commits and development process can be found ***[here](https://github.com/Kornull/RS-School-tasks/tree/online-store)***
