@@ -13,7 +13,7 @@ This project is an application of an online store. Completed as part of studies 
 * ### *SCSS*
 * ### *noUiSlider*
 
-
+---
 The history of commits and development process can be found ***[here](https://github.com/Kornull/RS-School-tasks/tree/online-store)***
 
 To launch the application, follow this ***[link](https://kornull.github.io/Online-store/store/)***. You don't have to install anything extra!
