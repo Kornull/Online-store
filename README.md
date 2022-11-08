@@ -1,4 +1,3 @@
-
 # Online-store
 
 
@@ -8,16 +7,26 @@ This project is an application of an online store. Completed as part of studies 
 
 
 ## Thechnology:
-* ### *Webpack*
-* ### *Typescript*
-* ### *SCSS*
-* ### *noUiSlider*
+* #### *Webpack*
+* #### *Typescript*
+* #### *SCSS*
+* #### *noUiSlider*
 
+---
+### Details:
+* ###### Search bar
+* ###### Several sorting options:
+ >+ name
+ >+ year
+ >+ color
+ >+ memory
+ >+ quantity
+* ###### Adding and removing from the cart
+* ###### Reset search options
+* ###### *The minimum app resolution is 768 pixels*
 ---
 The history of commits and development process can be found ***[here](https://github.com/Kornull/RS-School-tasks/tree/online-store)***
 
 To launch the application, follow this ***[link](https://kornull.github.io/Online-store/store/)***. You don't have to install anything extra!
 
-Task ***[link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/online-store/README.md)***
-
-*The minimum app resolution is 768 pixels*
+Task description ***[link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/online-store/README.md)***
