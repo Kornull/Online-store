@@ -16,7 +16,7 @@ This project is an application of an online store. Completed as part of studies 
 ### Details:
 
 - Search bar.
-- Several sorting options: name ,year ,color ,memory ,quantity.
+- Several sorting options: name, year, color, memory, quantity.
 - Adding and removing from the cart.
 - Reset search options.
 - Reset localsote settings.
