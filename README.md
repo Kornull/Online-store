@@ -23,6 +23,7 @@ This project is an application of an online store. Completed as part of studies 
            quantity
 * ##### Adding and removing from the cart
 * ##### Reset search options
+* ##### Reset settings localsote
 * ##### Data is saved in the localstore
 * ##### *The minimum app resolution is 768 pixels*
 ---
