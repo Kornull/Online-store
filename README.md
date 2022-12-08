@@ -4,7 +4,7 @@ This project is an application of an online store. Completed as part of studies 
 
 ## Screenshot:![Store](https://user-images.githubusercontent.com/96052707/200632672-85d73128-f1de-4216-9591-688e16695872.png)
 
-## Thechnology:
+## Technology:
 
 - #### _Webpack_
 - #### _Typescript_
